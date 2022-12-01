@@ -1,5 +1,5 @@
 import AboutUs from './AboutUs/AboutUs';
-import Chef from './Chef/Chef';
+import Artist from './Artist/Artist';
 import FindUs from './Findus/FindUs';
 import Footer from './Footer/Footer';
 import Gallery from './Gallery/Gallery';
@@ -10,7 +10,7 @@ import SpecialMenu from './Menu/SpecialMenu';
 
 export {
   AboutUs,
-  Chef,
+  Artist,
   FindUs,
   Footer,
   Gallery,

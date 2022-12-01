@@ -2,9 +2,9 @@ import React from 'react';
 import { SubHeading } from '../../components'
 import { images } from '../../constants';
 
-import './Chef.css';
+import './Artist.css';
 
-const Chef = () => (
+const Artist = () => (
   <div className="app__bg app__wrapper section__padding">
     <div className="app__wrapper_img app__wrapper_img-reverse">
       <img src={images.rainha} alt="artist-img" />
@@ -25,11 +25,11 @@ const Chef = () => (
 
       <div className='app__artist-sign'>
         <p>Geni Maciel</p>
-        <p className='p__opensans'>Artist & Founder</p>
+        <p className='p__opensans'>Artista & Fundadora</p>
         <img src={images.gesign} alt="sign"/>
       </div>
     </div>
   </div>
 );
 
-export default Chef;
+export default Artist;
