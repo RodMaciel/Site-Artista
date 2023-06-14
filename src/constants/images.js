@@ -1,9 +1,5 @@
 import bg from '../assets/bg.png';
 import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
 import pexels from '../assets/pexels.png'
 import iconpin2 from '../assets/iconpin2.png'
 import pincel from "../assets/pincel.png";
@@ -19,6 +15,10 @@ import rainha from '../assets/rainha2.png'
 import geni from '../assets/geni.png'
 import gesign from '../assets/maciel.png'
 import laurelsimg from '../assets/laurelsimg.png'
+import arte1 from "../assets/arte01.png";
+import arte2 from "../assets/arte02.png";
+import arte3 from "../assets/arte03.png";
+import arte4 from "../assets/arte04.png";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
@@ -28,11 +28,7 @@ export default {
   geni,
   rainha,
   G,
-  gallery01,
-  gallery02,
-  gallery03,
   pexels,
-  gallery04,
   pincel,
   iconpin2,
   overlaybg,
@@ -42,5 +38,9 @@ export default {
   award02,
   award03,
   award05,
+  arte1,
+  arte2,
+  arte3,
+  arte4,
   quote,
 };

@@ -55,6 +55,7 @@
     object-fit: cover;
     opacity: 1;
     transition: .5s ease;
+    border-radius: 2%;
 }
 .app__gallery-images_card:hover img {
     opacity: 0.35;

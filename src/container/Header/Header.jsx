@@ -21,7 +21,7 @@ const Header = () => (
       </button>
     </div>
     <div className="app__wrapper_img">
-      <img src={images.indus} alt="header img" />
+      <img src={images.findus} alt="header img" />
     </div>
   </div>
 );
